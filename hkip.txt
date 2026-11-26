@@ -1,50 +1,50 @@
-172.64.159.32#HK香港优选1
-104.18.44.99#HK香港优选2
-172.64.146.39#HK香港优选3
-172.64.154.101#HK香港优选4
-172.64.147.154#HK香港优选5
-172.64.151.254:2096#HK香港优选6
-104.18.43.171#HK香港优选7
-172.64.145.82#HK香港优选8
-162.159.40.181:2096#HK香港优选9
-198.41.222.132#HK香港优选10
-193.134.210.107#HK香港优选11
-38.175.195.234:8443#HK香港优选12
-104.18.40.206#HK香港优选13
-122.10.119.252#HK香港优选14
+8.212.13.94#HK香港优选1
+172.64.154.101#HK香港优选2
+172.64.159.26#HK香港优选3
+172.64.32.9#HK香港优选4
+172.64.159.32#HK香港优选5
+104.18.44.99#HK香港优选6
+172.64.156.173#HK香港优选7
+216.236.51.144:1891#HK香港优选8
+13.228.203.217:8443#HK香港优选9
+172.64.146.39#HK香港优选10
+47.129.165.224#HK香港优选11
+103.137.22.71#HK香港优选12
+38.175.195.234:8443#HK香港优选13
 cf.3666888.xyz#HK 香港域名1
 nrtcfdns.zone.id#HK 香港域名2
-vinhomes.vn#HK 香港域名3
-leyun.cloud#HK 香港域名4
-batdongsan.com.vn#HK 香港域名5
-www.dbs.com#HK 香港域名6
-www.airasia.com#HK 香港域名7
-advantech.com#HK 香港域名8
-guardian.com.vn#HK 香港域名9
-stonexbullion.com#HK 香港域名10
-www.bitkub.com#HK 香港域名11
-yg6.ygkkk.dpdns.org#HK 香港域名12
-sy.hhhhh.eu.org#HK 香港域名13
-hongkongairport.com#HK 香港域名14
-qms.mmhh.eu.cc#HK 香港域名15
-psm.ircf.space#HK 香港域名16
-ryn.ircf.space#HK 香港域名17
-crocs.com.vn#HK 香港域名18
-saas.sin.fan:2096#HK 香港域名19
-baka.fun#HK 香港域名20
-bestcf.030101.xyz#HK 香港域名21
-mfa.gov.ua#HK 香港域名22
-www.mc.js.cool#HK 香港域名23
-www.jimdo.com#HK 香港域名24
-yesstyle.com#HK 香港域名25
-smt.ircf.space#HK 香港域名26
-saas.sin.fan#HK 香港域名27
-test.509666.xyz#HK 香港域名28
-cm.mmhh.eu.cc#HK 香港域名29
-openai.hhhhh.eu.org#HK 香港域名30
-www.vexere.com#HK 香港域名31
-www.mlb-korea.com#HK 香港域名32
-www.kingpower.com#HK 香港域名33
-shop.glico.com#HK 香港域名34
-decathlon.qa#HK 香港域名35
-starbucks.qa#HK 香港域名36
+www.mlb-korea.com#HK 香港域名3
+vinhomes.vn#HK 香港域名4
+qms.mmhh.eu.cc#HK 香港域名5
+test.509666.xyz#HK 香港域名6
+www.bitkub.com#HK 香港域名7
+www.airasia.com#HK 香港域名8
+bestcf.030101.xyz#HK 香港域名9
+hongkongairport.com#HK 香港域名10
+smt.ircf.space#HK 香港域名11
+www.dbs.com#HK 香港域名12
+saas.sin.fan#HK 香港域名13
+guardian.com.vn#HK 香港域名14
+ryn.ircf.space#HK 香港域名15
+advantech.com#HK 香港域名16
+www.mc.js.cool#HK 香港域名17
+yg6.ygkkk.dpdns.org#HK 香港域名18
+baka.fun#HK 香港域名19
+crocs.com.vn#HK 香港域名20
+batdongsan.com.vn#HK 香港域名21
+starbucks.qa#HK 香港域名22
+decathlon.qa#HK 香港域名23
+openai.hhhhh.eu.org#HK 香港域名24
+mfa.gov.ua#HK 香港域名25
+saas.sin.fan:2096#HK 香港域名26
+www.kingpower.com#HK 香港域名27
+leyun.cloud#HK 香港域名28
+stonexbullion.com#HK 香港域名29
+yesstyle.com#HK 香港域名30
+psm.ircf.space#HK 香港域名31
+www.jimdo.com#HK 香港域名32
+www.vexere.com#HK 香港域名33
+cm.mmhh.eu.cc#HK 香港域名34
+sy.hhhhh.eu.org#HK 香港域名35
+shop.glico.com#HK 香港域名36
+cucc.cloudflare.seeck.cn#HK 香港域名37
